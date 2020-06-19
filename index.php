@@ -1,5 +1,5 @@
 <?php
-  $sd = explode(".", $_SERVER['SERVER_NAME'])[0];
+/*  $sd = explode(".", $_SERVER['SERVER_NAME'])[0];
   $loc = "";
   if($sd == "mail"){
     $loc = "http://zpanel.hemshrestha.com.np/etc/apps/webmail";
@@ -19,7 +19,7 @@
   if($loc != ""){
     header('Location: '.$loc);
     exit;
-  }
+  }*/
 ?><!DOCTYPE html>
 <html>
   <head>
@@ -31,7 +31,15 @@
     <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
   </head>
   <body>
-    
+    <!-- 
+    _    _                     ___   _                    _    _
+   | |  | |                   /  _ \| |                  | |  | |
+   | |__| | ___  _ __ ___     | '_'-| |_   _ _  __   ___ | |  | |_    ___
+   |  __  |/ _ \| '_ ' _  \    \__ \|  _ \| '_|/ _ \/ __\|  | |  _ \ / _  \
+   | |  | |  __/| | | | | |   --,_' | || || / :  __/\__ \| |_ | || || '_' |
+   |_|  |_|\___||_| |_| |_|   \____/|_||_||_|  \___|\___/|___||_||_| \__,_|
+
+    -->
     <!-- start header -->
     <?php include('header.php');?>
     <!-- end header -->
