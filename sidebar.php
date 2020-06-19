@@ -7,6 +7,7 @@
         <li><a href="/about.php">About Server</a></li>
         <li><a href="/help.php">Manuals and Help</a></li>
         <li><a href="/contact.php">Contact Us</a></li>
+        <li><a href="http://www.hemshrestha.com.np" target="_blank">About Developer</a></li>
         <li><a href="http://zpanel.hemshrestha.com.np">Zpanel Login</a></li>
       </ul>
     </li>
@@ -32,7 +33,7 @@
         <li><a href="http://www.neekhil.com.np" target="_blank">17. neekhil.com.np</a> </li>
         <li><a href="http://www.rupakadhikari.com.np" target="_blank">18. rupakadhikari.com.np</a> </li>
         <li><a href="http://www.dineshstha.com.np" target="_blank">19. dineshstha.com.np</a> </li>
-        <li><a href="http://www.bednidhirijal.com.np" target="_blank">20. bednidhirijal.com.np</a> </li>
+        <li><a href="http://www.hem.info.np" target="_blank">20. hem.info.np</a> </li>
         <li><a href="http://www.ghimiresuraj.com.np" target="_blank">21. ghimiresuraj.com.np</a> </li>
         <li><a href="http://www.sabinghimire.com.np" target="_blank">22. sabinghimire.com.np</a> </li>
         <li><a href="http://www.sagarpandey.com.np" target="_blank">23. sagarpandey.com.np</a> </li>

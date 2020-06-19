@@ -2,6 +2,16 @@
   <p style="padding-bottom:10px;">
     &copy;2014 All Rights Reserved &nbsp;&bull;&nbsp; <a href="http://pi.hemshrestha.com.np">MeroServer</a>
   </p>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-9012000723262944";
+    google_ad_slot = "9958018914";
+    google_ad_width = 728;
+    google_ad_height = 90;
+</script>
+<!-- Meroserver Footer -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
   <!-- Start of StatCounter Code for Default Guide -->
   <script type="text/javascript">
     var sc_project=9843936; 
@@ -30,9 +40,6 @@
   }
   else if(subDomain == "db"){
     window.location.href = "http://zpanel.hemshrestha.com.np/etc/apps/phpmyadmin";
-  }
-  else if(subDomain == "ftp"){
-    window.location.href = "http://zpanel.hemshrestha.com.np/?module=ajaxplorer&action=Login";
   }
   else if(subDomain == "files"){
     window.location.href = "http://zpanel.hemshrestha.com.np/?module=ajaxplorer&action=Login";

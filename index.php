@@ -10,8 +10,11 @@
   else if($sd == "db"){
     $loc = "http://zpanel.hemshrestha.com.np/etc/apps/phpmyadmin";
   }
-  else if($sd == "ftp" || $sd == "files"){
+  else if($sd == "files"){
     $loc = "http://zpanel.hemshrestha.com.np/?module=ajaxplorer&action=Login";
+  }
+  else if($sd == "chat"){
+    $loc = "http://chat.hemshrestha.com.np:8000";
   }
   if($loc != ""){
     header('Location: '.$loc);
@@ -67,7 +70,7 @@
               </p>
               <div class="entry">
                 <p>Click <a href="http://www.tcpiputils.com/traceroute/pi.hemshrestha.com.np" target="_blank">here</a> 
-                  to trace and find out our location of our server via <a href="http://tcpiputils.com/" target="_blank">TCPIPUTILS</a>.</p>
+                  to trace and find out our location of our server via <a href="http://tcpiputils.com/traceroute/pi.hemshrestha.com.np" target="_blank">TCPIPUTILS</a>.</p>
               </div>
               <p class="meta"><a href="/about.php" class="more">Read More</a> &nbsp;&nbsp; &nbsp;&raquo;&nbsp;&nbsp;</p>
             </div>
